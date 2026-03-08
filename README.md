@@ -24,4 +24,4 @@ Mourse is an auto-clicker and mouse movement automation capabilities with a GUI 
 
 MIT License - see [LICENSE](LICENSE) for details.
 
-Copyright (c) 2023 sakura6264
+Copyright (c) 2023 arcana6264
